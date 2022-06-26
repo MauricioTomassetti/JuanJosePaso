@@ -1,10 +1,10 @@
 # Instituto Terciario Juan Jose Paso
-Tesis del prototipo para el Instituto Juan Jose Paso, en la ciudad de Bahia Blanca.
+Seminario Final del prototipo para el Instituto Juan Jose Paso, en la ciudad de Bahia Blanca. Realizado en la Universidad Empresarial Siglo XXI.
 En el siguiente link tendremos acceso a lo que seran los mockups de las interfaces del sistema tanto para el backoffice como del lado del alumnno.
 
-Link: http://www.my-projects.somee.com/index.html
+Link al sitio: http://www.my-projects.somee.com/index.html
 
-Imagenes del sitio:
+Imágenes del sitio:
 ![image](https://user-images.githubusercontent.com/18125794/175796759-eec1a980-7c5b-4818-b224-2f7d7a327427.png)
 
 
