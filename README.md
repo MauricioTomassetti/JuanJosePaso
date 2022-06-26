@@ -5,22 +5,22 @@ En el siguiente link tendremos acceso a lo que seran los mockups de las interfac
 Link: http://www.my-projects.somee.com/index.html
 
 Imagenes del sitio:
-![image](https://user-images.githubusercontent.com/18125794/175796058-bd476136-c86e-4697-afe7-1068a76f578e.png)
+![image](https://user-images.githubusercontent.com/18125794/175796759-eec1a980-7c5b-4818-b224-2f7d7a327427.png)
 
 
-![image](https://user-images.githubusercontent.com/18125794/175796119-5e417590-a97e-454e-9840-ad475d801de8.png)
+![image](https://user-images.githubusercontent.com/18125794/175796771-615a310e-19f1-4575-9d79-1ceedb130832.png)
 
 
-![image](https://user-images.githubusercontent.com/18125794/175796128-7eb57232-e9d6-4153-a491-c407a8873c94.png)
+![image](https://user-images.githubusercontent.com/18125794/175796784-b9904341-f484-49a4-a544-cbecc13e1890.png)
 
 
-![image](https://user-images.githubusercontent.com/18125794/175796137-f2ca3dda-bc5b-457a-a752-e6b9cc7f24d0.png)
+![image](https://user-images.githubusercontent.com/18125794/175796807-089a5fca-11b3-4874-a052-99ef82996d41.png)
 
 
-![image](https://user-images.githubusercontent.com/18125794/175796156-013c35cf-2740-4159-ac76-e6901f4e9ede.png)
+![image](https://user-images.githubusercontent.com/18125794/175796838-abf92028-b578-4267-b38c-2d297f0097b2.png)
 
 
-![image](https://user-images.githubusercontent.com/18125794/175796147-c777a54f-3d0d-4d34-a4b4-08053f801f75.png)
+![image](https://user-images.githubusercontent.com/18125794/175796846-59caf43d-1e91-4d4d-9c77-f48ad8eb30ea.png)
 
 
-![image](https://user-images.githubusercontent.com/18125794/175796166-331efe99-ddb9-481b-92d9-b7a0ba58556a.png)
+![image](https://user-images.githubusercontent.com/18125794/175796826-202de6c3-c905-44cb-917d-25a7e3e16d27.png)
