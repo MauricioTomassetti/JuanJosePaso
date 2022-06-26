@@ -7,6 +7,6 @@ Link: http://www.my-projects.somee.com/index.html
 Imagenes del sitio:
 ![image](https://user-images.githubusercontent.com/18125794/175795742-323c5a88-7099-4f4b-a6f5-89f72f851bd9.png)
 
-![image](https://user-images.githubusercontent.com/18125794/175795758-0ad099e1-d3e4-4e19-9542-a75cb150db5a.png)
+![image](https://user-images.githubusercontent.com/18125794/175795826-8c2e2c35-b1b9-4ee6-b936-ddbc4abe0f9f.png)
 
 ![image](https://user-images.githubusercontent.com/18125794/175795788-79677f3b-9128-4bcf-97bf-b1a31af5452d.png)
